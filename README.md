@@ -1,2 +1,8 @@
-# astroone-backend
-Backend for AstroOne App - Node.js + Express + MongoDB (Render Deployment)
+# AstroOne Backend (Render Deployment)
+
+## Routes
+- `/` → Health check
+- `/api/test` → AI test route
+
+## Deployment
+Push to main branch → auto deploys on Render.
